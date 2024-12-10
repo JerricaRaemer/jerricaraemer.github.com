@@ -6,18 +6,18 @@
 
 ## Projects
 <div align="center>
-  <img src="Data_Cleaning_SQL_Python.JPG" width="50%">
-<img src="Line_Plot_Python.JPG" width="50%">
+  <img width="50%" src="Data_Cleaning_SQL_Python.JPG">
+<img width="50%" src="Line_Plot_Python.JPG">
 </div>
 
 <div align="center>
-  <img src="Linear_Regression.JPG" width="50%">
-<img src="Python_Dict.JPG" width="50%">
+  <img width="50%" src="Linear_Regression.JPG">
+<img width="50%" src="Python_Dict.JPG">
 </div>
 
 <div align="center>
-  <img src="SQL_Table_Schema.JPG" width="50%">
-<img src="Tableau_Music.JPG" width="50%">
+  <img width="50%" src="SQL_Table_Schema.JPG">
+<img  width="50%" src="Tableau_Music.JPG">
 </div>
 
 ## Format Image:
