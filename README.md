@@ -13,7 +13,7 @@
 ![Tableau_Music](Tableau_Music.JPG)
 
 ## Format Image:
-[[Tableau_Music.JPG | height = 100px]]
+<img src="Tableau_Music.JPG" width="100">
 
 ## Contact
 + 425-829-0930
