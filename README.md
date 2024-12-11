@@ -7,11 +7,11 @@
 
 ## Portfolio
 <p>
-  <img src="Data_Cleaning_SQL_Python.JPG)" width="50%" />
+  <img src="Data_Cleaning_SQL_Python.JPG" width="50%" />
   <em>Data Cleaning</em>
 </p>
 <p>
-  <img src="Line_Plot_Python.JPG)" width="50%" />
+  <img src="Line_Plot_Python.JPG" width="50%" />
   <em>Python</em>
 </p>
 <p>
