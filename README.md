@@ -9,24 +9,18 @@
 <p>
   <img src="Data_Cleaning_SQL_Python.JPG" width="50%" />
   <em>Data Cleaning</em>
-</p>
-<p>
   <img src="Line_Plot_Python.JPG" width="50%" />
   <em>Python</em>
 </p>
 <p>
   <img src="Linear_Regression.JPG" width="50%" />
   <em>Linear Regression</em>
-</p>
-<p>
   <img src="Python_Dict.JPG" width="50%" />
   <em>Python</em>
 </p>
 <p>
   <img src="SQL_Table_Schema.JPG" width="50%" />
   <em>SQL Table Schema</em>
-</p>
-<p>
   <img  src="Tableau_Music.JPG" width="50%" />
   <em>Tableau Visualization</em>
 </p>
