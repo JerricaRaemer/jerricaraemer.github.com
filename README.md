@@ -1,4 +1,3 @@
-`#000000`
 ### Results-Driven, Detail-Focused Data Analyst in Eugene, OR
 
 ## Mission
@@ -8,23 +7,23 @@
 ## Portfolio
 
 <p>
+  <img src="Data_Cleaning_SQL_Python.JPG" width="49%" />
+  <img src="SQL_Table_Schema.JPG" width="49%" />
+</p>
+<p>
   <img src="Linear_Regression.JPG" width="49%" />
   <img src="Line_Plot_Python.JPG" width="49%" />
 </p>
 <p>
-  <img src="Data_Cleaning_SQL_Python.JPG" width="49%" />
   <img src="Python_Dict.JPG" width="49%" />
-</p>
-<p>
-  <img src="SQL_Table_Schema.JPG" width="49%" />
   <img  src="Tableau_Music.JPG" width="49%" />
 </p>
 
-## Format Image:
-<img src="Tableau_Music.JPG" width="100">
-
 ## Contact
-+ 425-829-0930
-+ jraemer@outlook.com
-+ [GitHub](https://github.com/JerricaRaemer)
-+ [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
+> 425-829-0930
+> 
+> jraemer@outlook.com
+> 
+> [GitHub](https://github.com/JerricaRaemer)
+> 
+> [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
