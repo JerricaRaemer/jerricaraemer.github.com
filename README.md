@@ -1,4 +1,4 @@
-`rgb(R,G,B)`
+`#000000`
 ### Results-Driven, Detail-Focused Data Analyst in Eugene, OR
 
 ## Mission
