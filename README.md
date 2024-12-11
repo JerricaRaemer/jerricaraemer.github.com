@@ -8,14 +8,16 @@
 ## Portfolio
 
 <p>
-  <img src="Data_Cleaning_SQL_Python.JPG" width="33%" />
-  <img src="Line_Plot_Python.JPG" width="33%" />
-  <img src="Linear_Regression.JPG" width="33%" />
+  <img src="Data_Cleaning_SQL_Python.JPG" width="50%" />
+  <img src="Line_Plot_Python.JPG" width="50%" />
 </p>
 <p>
-  <img src="Python_Dict.JPG" width="33%" />
-  <img src="SQL_Table_Schema.JPG" width="33%" />
-  <img  src="Tableau_Music.JPG" width="33%" />
+  <img src="Linear_Regression.JPG" width="50%" />
+  <img src="Python_Dict.JPG" width="50%" />
+</p>
+<p>
+  <img src="SQL_Table_Schema.JPG" width="50%" />
+  <img  src="Tableau_Music.JPG" width="50%" />
 </p>
 
 ## Format Image:
