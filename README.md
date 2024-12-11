@@ -8,9 +8,7 @@
 ## Portfolio
 <p>
   <img src="Data_Cleaning_SQL_Python.JPG" width="50%" />
-  <em>Data Cleaning</em>
   <img src="Line_Plot_Python.JPG" width="50%" />
-  <em>Python</em>
 </p>
 <p>
   <img src="Linear_Regression.JPG" width="50%" />
