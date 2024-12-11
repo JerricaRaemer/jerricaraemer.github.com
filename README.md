@@ -8,11 +8,11 @@
 ## Portfolio
 
 <p>
-  <img src="Data_Cleaning_SQL_Python.JPG" width="49%" />
+  <img src="Linear_Regression.JPG" width="49%" />
   <img src="Line_Plot_Python.JPG" width="49%" />
 </p>
 <p>
-  <img src="Linear_Regression.JPG" width="49%" />
+  <img src="Data_Cleaning_SQL_Python.JPG" width="49%" />
   <img src="Python_Dict.JPG" width="49%" />
 </p>
 <p>
