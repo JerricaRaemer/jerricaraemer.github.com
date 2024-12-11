@@ -1,4 +1,4 @@
-# Jerrica Raemer Portfolio
+`rgb(R,G,B)`
 ### Results-Driven, Detail-Focused Data Analyst in Eugene, OR
 
 ## Mission
