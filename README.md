@@ -7,16 +7,16 @@
 ## Portfolio
 
 <p>
-  <img src="Data_Cleaning_SQL_Python.JPG" width="49%" height=300 />
-  <img src="SQL_Table_Schema.JPG" width="49%" height=300 />
+  <img src="Data_Cleaning_SQL_Python.JPG" width="49%" max-height=300 />
+  <img src="SQL_Table_Schema.JPG" width="49%" max-height=300 />
 </p>
 <p>
-  <img src="Linear_Regression.JPG" width="49%" height=500 />
-  <img src="Line_Plot_Python.JPG" width="49%" height=500 />
+  <img src="Linear_Regression.JPG" width="49%" max-height=500 />
+  <img src="Line_Plot_Python.JPG" width="49%" max-height=500 />
 </p>
 <p>
-  <img src="Python_Dict.JPG" width="49%" height=400 />
-  <img  src="Tableau_Music.JPG" width="49%" height=400 />
+  <img src="Python_Dict.JPG" width="49%" max-height=400 />
+  <img  src="Tableau_Music.JPG" width="49%" max-height=400 />
 </p>
 
 ## Contact
