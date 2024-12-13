@@ -1,4 +1,11 @@
+<head>
+  <link rel="stylesheet" href="mainstyle.css">
+</head>
+
+<body>
+
 ### Results-Driven, Detail-Focused Data Analyst in Eugene, OR
+
 
 ## Mission
 ### Turning complex data into actionable insights
@@ -56,3 +63,5 @@
 > [GitHub](https://github.com/JerricaRaemer)
 > 
 > [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
+>
+> </body>
