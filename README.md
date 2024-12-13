@@ -3,6 +3,7 @@
   <link href="
 https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css
 " rel="stylesheet">
+  <link href="lightgallery.js" rel="javascript">
 </head>
 
 <body>
@@ -67,13 +68,5 @@ https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/css/lightgallery.min.css
 > 
 > [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
 >
-
-<footer>
-  
-  <script src="
-https://cdn.jsdelivr.net/npm/lightgallery.js@1.4.0/dist/js/lightgallery.min.js
-"></script>
-  
-</footer>
 
 </body>
