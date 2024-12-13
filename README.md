@@ -9,14 +9,14 @@
 
 <div class="gallery">
   <a target="_blank" href="Data_Cleaning_SQL_Python.JPG">
-    <img src="Data_Cleaning_SQL_Python.JPG" alt="Data_Cleaning" />
+    <img src="Data_Cleaning_SQL_Python.JPG" alt="Data_Cleaning" width="49%" />
   </a>
   <div class="description">Data Cleaning</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="Data_Cleaning_SQL_Python.JPG">
-    <img src="SQL_Table_Schema.JPG" alt="SQL_Shema" />
+    <img src="SQL_Table_Schema.JPG" alt="SQL_Shema" width="49%" />
   </a>
   <div class="description">SQL Schema</div>
 </div>
