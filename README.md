@@ -9,42 +9,42 @@
 
 <div class="gallery">
   <a target="_blank" href="Data_Cleaning_SQL_Python.JPG">
-    <img src="Data_Cleaning_SQL_Python.JPG" alt="Data_Cleaning" width="49%" />
+    <img src="Data_Cleaning_SQL_Python.JPG" alt="Data_Cleaning" />
   </a>
   <div class="description">Data Cleaning</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="Data_Cleaning_SQL_Python.JPG">
-    <img src="SQL_Table_Schema.JPG" alt="SQL_Shema" width="49%" />
+    <img src="SQL_Table_Schema.JPG" alt="SQL_Shema" />
   </a>
   <div class="description">SQL Schema</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="Linear_Regression.JPG">
-    <img src="Linear_Regression.JPG" alt="Linear_Regression" width="49%" />
+    <img src="Linear_Regression.JPG" alt="Linear_Regression" />
   </a>
   <div class="description">Linear Regression</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="Line_Plot_Python.JPG">
-    <img src="Line_Plot_Python.JPG" alt="Python_Plots" width="49%" />
+    <img src="Line_Plot_Python.JPG" alt="Python_Plots" />
   </a>
   <div class="description">Python Plots</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="Python_Dict.JPG">
-    <img src="Python_Dict.JPG" alt="Data_Organization" width="49%" />
+    <img src="Python_Dict.JPG" alt="Data_Organization" />
   </a>
   <div class="description">Data Organization</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="Tableau_Music.JPG">
-    <img src="Tableau_Music.JPG" alt="Tableau_Visualizations" width="49%" />
+    <img src="Tableau_Music.JPG" alt="Tableau_Visualizations" />
   </a>
   <div class="description">Tableau Visualizations</div>
 </div>
