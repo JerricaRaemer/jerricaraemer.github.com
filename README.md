@@ -2,8 +2,6 @@
   <link rel="stylesheet" href="mainstyle.css">
 </head>
 
-<body>
-
 ### Results-Driven, Detail-Focused Data Analyst in Eugene, OR
 
 
@@ -65,4 +63,4 @@
 > 
 > [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
 >
-> </body>
+
