@@ -1,8 +1,7 @@
   <link rel="stylesheet" href="mainstyle.css">
   
 ## About Me
-> I’m an energetic morning person with great people skills. Outside of work, I love to sing, dance, and pet puppies. During the summer I love to unwind at the Oregon coast and enjoy the waves and sandy shores. I am always eager to connect with others, embrace new experiences, and bring positivity and enthusiasm to everything I do.
-<img src="Images/headshot.jpg" alt="Headshot" style="float:right;width:300px;"/>
+<img src="Headshot.JPG" alt="Headshot" />
 
 ## Mission
 
