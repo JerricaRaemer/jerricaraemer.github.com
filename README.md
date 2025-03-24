@@ -3,14 +3,16 @@
 ## About Me
 > I’m an energetic morning person with great people skills. I love to sing, dance, and pet puppies. During the summer I love to escape to the Oregon coast for the waves and sand.
 
-<img src="headshot.jpg" alt="headshot_1" />
-
 <div class="gallery">
   <a target="_blank" href="headshot.JPG">
-    <img src="headshot.JPG" alt="Data_Cleaning" />
+    <img src="Images/headshot.jpg" alt="Data_Cleaning" />
   </a>
-  <div class="description">Data Cleaning</div>
+  <div class="description">My Dazzling Smile</div>
 </div>
+
+![](Images/headshot.jpg){: .align-right}
+Something about the first picture.
+
 
 ## Mission
 
@@ -30,9 +32,13 @@ View Full Repositories: <a href="url">http://www.github.com/JerricaRaemer</a>
 >
 
 ## Technical Skills
+>
 > Data Management: Data cleaning, ETL processes, database management using Python and SQL.
+>
 > Data Visualization: Python, Tableau, Excel.
+>
 > Project Management: GitHub, GitLab.
+>
 > Programming Languages: Python, C++.
 >
 
