@@ -3,15 +3,14 @@
 ## About Me
 > I’m an energetic morning person with great people skills. I love to sing, dance, and pet puppies. During the summer I love to escape to the Oregon coast for the waves and sand.
 
-<div class="gallery">
+<div class="headshot">
   <a target="_blank" href="headshot.JPG">
-    <img src="Images/headshot.jpg" alt="Data_Cleaning" />
+    <img src="Images/headshot.jpg" alt="Headshot" />
   </a>
   <div class="description">My Dazzling Smile</div>
 </div>
 
-![](Images/headshot.jpg){: .align-right}
-Something about the first picture.
+![](Images/headshot.jpg)
 
 
 ## Mission
