@@ -9,7 +9,7 @@
 > I am a results-driven data analyst with a strong foundation in mathematics and data analytics. My academic and professional experiences have equipped me with a diverse skill set in data management, cleanup, and visualization. I am committed to leveraging my analytical abilities and technical expertise to drive impactful, data-driven insights and solutions. I also bring strong project management and collaboration skills, having worked on projects that required close coordination with cross-functional teams. My analytical mindset is complemented by a high attention to detail and a commitment to accuracy, ensuring that data integrity is always maintained. I am dedicated to continuous learning to deliver solutions and contribute meaningfully to organizational growth.
 
 ## Projects
-View Full Repositories: <a href="url">http://www.github.com/JerricaRaemer</a>
+View Full Repositories: [GitHub](https://github.com/JerricaRaemer)
 >
 > Python Data Manipulation: Processed and transformed data by reading CSV files, manipulating datasets, and exporting results to text files for streamlined analysis.
 >
