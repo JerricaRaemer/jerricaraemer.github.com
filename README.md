@@ -3,6 +3,9 @@
 ## About Me
 <img src="Headshot.JPG" alt="Headshot" />
 
+### Seeking a valuable addition to your team?
+<div id="bottom"><a href="bottom"></a>Contact me now!</div>
+
 ## Mission
 
 ### Turning complex data into actionable insights
