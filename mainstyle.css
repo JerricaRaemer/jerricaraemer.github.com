@@ -1,3 +1,9 @@
+.headshot{
+  display: inline;
+  padding: 10px;
+  width: 300px;
+}
+
 .gallery{
   display: inline-block;
   border: 1px solid hsl(0, 0%, 60%);
@@ -9,7 +15,7 @@
   text-align: center;
 }
 .gallery:hover{
-  border: 4px solid hsl(223, 65%, 40%);
+  border: 3px solid hsl(223, 65%, 40%);
 }
 .gallery img{
   width: 100%;
