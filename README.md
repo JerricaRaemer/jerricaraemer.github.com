@@ -2,7 +2,13 @@
   
 ## About Me
 > I’m an energetic morning person with great people skills. I love to sing, dance, and pet puppies. During the summer I love to escape to the Oregon coast for the waves and sand.
-![image](path-to-image.jpg){: style="float: left"}
+
+<div class="gallery">
+  <a target="_blank" href="headshot.JPG">
+    <img src="headshot.JPG" alt="headshot" />
+  </a>
+  <div class="description">My Dazzling Smile</div>
+</div>
 
 ## Mission
 
