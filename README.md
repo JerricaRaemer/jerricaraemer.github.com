@@ -1,7 +1,7 @@
   <link rel="stylesheet" href="mainstyle.css">
 
 <section id="headline">
-<h4>Results-Driven, Detail-Focused Data Analyst</h4>
+<h3>Results-Driven, Detail-Focused Data Analyst</h3>
   </section>
 
 ## About Me
