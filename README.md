@@ -1,6 +1,6 @@
   <link rel="stylesheet" href="mainstyle.css">
 
-<section id="headline">
+<section id="headline", margin-left: -40px>
 <h3>Results-Driven, Detail-Focused Data Analyst</h3>
   </section>
 
@@ -88,11 +88,11 @@ View Full Repositories: [GitHub](https://github.com/JerricaRaemer)
 ## Contact
 > Let's chat: 425-829-0930
 > 
-> Send me a project request: jraemer@outlook.com
-> 
 > View my projects: [GitHub](https://github.com/JerricaRaemer)
 > 
 > Let’s connect: [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
+>
+> Send me a project request: jraemer@outlook.com
 >
 
 <section id="contact">
