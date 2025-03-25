@@ -1,6 +1,6 @@
   <link rel="stylesheet" href="mainstyle.css">
 
-<section id="headline", margin-left: -40px>
+<section id="headline">
 <h3>Results-Driven, Detail-Focused Data Analyst</h3>
   </section>
 
