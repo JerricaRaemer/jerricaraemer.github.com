@@ -1,5 +1,9 @@
   <link rel="stylesheet" href="mainstyle.css">
-  
+
+<section id="headline">
+  <h3>Results-Driven, Detail-Focused Data Analyst</h3>
+  </section>
+
 ## About Me
 <img src="Headshot.JPG" alt="Headshot" />
 
@@ -78,6 +82,8 @@ View Full Repositories: [GitHub](https://github.com/JerricaRaemer)
 > Key Courses: Data Analysis, Linear Algebra, Discrete Math, Probability, Stochastic Processes.
 >
 > Technical Skills: Python, Pandas, Tableau, SQL, APIs, JavaScript, HTML, ETL Processes.
+
+<a href="#headline">Back to top</a>
 
 ## Contact
 > Let's chat: 425-829-0930
