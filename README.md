@@ -4,6 +4,8 @@
   <h3> <img src="arrow.JPG" alt="rightarrow" width="40" /> Results-Driven, Detail-Focused Data Analyst</h3>
   </section>
 
+#### View my resume: <a href="Complete_Resume.pdf">Resume PDF</a>
+
 ## About Me
 <img src="Headshot.JPG" alt="Headshot" />
 
