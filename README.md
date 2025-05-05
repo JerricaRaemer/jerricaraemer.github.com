@@ -1,5 +1,10 @@
   <link rel="stylesheet" href="mainstyle.css">
 
+<head>
+  <meta name="keywords" content="math, data, analysis, analyst, analytics, data analyst, jerrica, raemer, jerrica raemer, university of oregon, uofo, uo, bootcamp, bs, bachelor's, bachelors, attention to detail, statistics, statistical, machine learning, ai, artificial, intelligence, big data, visualization, benefits, fsa, hsa, hra, irs, pretax, risk, financial, public, health, healthcare, consulting, hire, modeling, quality, hard working, sql, nosql, mysql, tableau, excel, python, aws, google cloud, azure, regression, pandas, numpy, matplotlib, querying, hypothesis, testing, a/b, boxplots, quartiles, correlation, accuracy, processes, process, team player, learn, resource, dependable, api, apis, api's, javascript, html, c++, flask, markdown, github, gitlab, postresql, colab, collaborate, pivottables, conditional formatting, formulas, vlookup, hlookup, macros, inner joins, outer joins, joins, grouping, ordering, querying, queries, markup, communication, problem solver, critical thinker, detail, attention">
+  <meta name="author" content="Jerrica Raemer">
+</head>
+
 <section id="headline">
   <h3> <img src="arrow.JPG" alt="rightarrow" width="40" /> Results-Driven, Detail-Focused Data Analyst</h3>
   </section>
