@@ -10,9 +10,12 @@
   </section>
 
 ## I'm Glad You're Here
-> I'm a Data Analyst with a passion for uncovering insights that drive business decisions. I'm experienced in Python, SQL, and Tableau, with a proven track record of optimizing workflows and delivering data-driven solutions.
-
-#### View my complete resume <a target="_blank" href="Complete_Resume.pdf">here</a>
+> I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
+>
+> I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
+>
+> I aim to be a strategic thought partner, not just a data puller. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
+>
 
 ## About Me
 <img src="Headshot.JPG" alt="Headshot" />
