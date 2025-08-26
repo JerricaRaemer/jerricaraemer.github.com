@@ -95,7 +95,7 @@ View All Repositories: [GitHub](https://github.com/JerricaRaemer)
 
 ## Work Samples
 
-<div class=gallery-grid">
+<div class="gallery-grid">
   <div class="gallery">
     <figure>
     <a target="_blank" href="Data_Cleaning_SQL_Python.JPG">
