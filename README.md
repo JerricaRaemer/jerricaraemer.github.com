@@ -161,7 +161,7 @@ View All Repositories: [GitHub](https://github.com/JerricaRaemer)
 <a href="#headline">Back to top</a>
 
 ## Contact
-> **Let's chat:** 425-829-0930
+> **Let's chat:** 541-632-3506
 > 
 > **View my projects:** [GitHub](https://github.com/JerricaRaemer)
 > 
