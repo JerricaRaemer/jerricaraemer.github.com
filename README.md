@@ -73,9 +73,9 @@ View All Repositories: [GitHub](https://github.com/JerricaRaemer)
 
 ## Professional Summary
 >
-> **2018-2024** – Pursuing My Degree: Tutored college math, TA’d college math courses, mentored students entering college, and participated in Data Analyst research in Science and Math.
+> **2018-2024** – Pursuing My BS Degree in Math: Tutored college math, TA’d college math courses, mentored students entering college, and participated in Data Analyst research in Science and Math.
 >
-> **2010-2017** – Career in Pretax Benefits Administration: Navia Benefit Solutions in Bellevue, WA, and PacificSource Administrators in Springfield, OR. I worked in several departments including Customer Service, Claims, Client Services, and Enrollment. I also worked very closely with our Billing, Sales, and Health Insurance teams to provide the best service.
+> **2010-2017** – Career in Pretax Benefits Administration for Navia Benefit Solutions in Bellevue, WA, and PacificSource Administrators in Springfield, OR. I worked in several departments including Customer Service, Claims, Client Services, and Enrollment. I also worked very closely with our Billing, Sales, and Health Insurance teams to provide cross-functional service.
 >
 > **Responsibilities in Benefits Administration**: Analyzed large-scale benefits data using data analysis techniques in Excel to identify trends. Ensured data confidentiality and accuracy while providing insights to plan participants and employers. Managed backend processes, including online enrollment setup, benefit card implementation, and new employer plan configurations.
 >
