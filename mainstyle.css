@@ -29,6 +29,15 @@
   border: 2px solid hsl(208, 28%, 37%);
 }
 .gallery img{
+  display: block;
   width: 100%;
   height: auto;
+  object-fit: cover;
 }
+
+@media (max-width: 600px) {
+  .galler-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
