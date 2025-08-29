@@ -17,7 +17,7 @@
   display: inline-block;
   border: 2px solid hsl(0, 0%, 60%);
   margin: 5px;
-  width: 300px;
+  width: 100%;
 }
 .gallery .description{
   padding: 10px;
