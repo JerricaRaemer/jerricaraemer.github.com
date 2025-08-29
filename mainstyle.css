@@ -36,7 +36,7 @@
 }
 
 @media (max-width: 600px) {
-  .galler-grid {
+  .gallery-grid {
     grid-template-columns: 1fr;
   }
 }
