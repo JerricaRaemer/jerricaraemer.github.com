@@ -30,65 +30,111 @@ I am a **results-driven data analyst** with a strong foundation in **mathematics
 
 ## Projects
 
-View All Repositories: [GitHub](https://github.com/JerricaRaemer)
-
-[Python Data Manipulation](https://github.com/JerricaRaemer/Python_APIs): Processed and transformed data by reading CSV files, manipulating datasets, and exporting results to text files for streamlined analysis.
-
-[Data Visualization & Pandas](https://github.com/JerricaRaemer/Data_Visualization): Analyzed and organized data by efficiently sorting, grouping, and calculating key metrics such as percentages within data frames. Developed visual data dashboards using Python and Tableau to analyze key trends.
-
-[SQL](https://github.com/JerricaRaemer/SQL_Data): Designed and modified database tables, executed inner joins, and organized data by grouping and ordering columns for efficient querying and analysis.
-
-[SQLAlchemy](https://github.com/JerricaRaemer/SQLAlchemy): Used Pandas dataframes to organize the data, used Python to query data stored in SQL, and built visualizations in Python to see the trends and interpret the data.
+> View All Repositories: [GitHub](https://github.com/JerricaRaemer)
+>  
+> [Data Visualization & Pandas](https://github.com/JerricaRaemer/Data_Visualization): Analyzed and organized data by efficiently sorting, grouping, and calculating key metrics such as percentages within data frames. Developed visual data dashboards using Python and Tableau to analyze key trends.
+> 
+> [SQL](https://github.com/JerricaRaemer/SQL_Data): Designed and modified database tables, executed inner joins, and organized data by grouping and ordering columns for efficient querying and analysis.
+>  
 
 ## Technical Skills
 
-**Data Analysis**: Python (Pandas, NumPy, Matplotlib), SQL, Excel
-
-**SQL**: Querying, Inner/Outer Joins, Grouping, Ordering
-
-**Excel**: PivotTables, Conditional Formatting, Formulas, VLOOKUP, Macros
-
-**Data Visualization**: Python, Tableau, Excel
-
-**Databases**: PostgreSQL, MySQL, NoSQL
-
-**Tools and Platforms**: GitHub, GitLab, Jupyter Notebook, Google Colab
-
-**Statistics**: Regression Analysis, Hypothesis Testing, A/B Testing, Boxplots, Quartiles, Correlation
-
-**Programming**: Python, SQL, HTML/Markdown, JavaScript
+> **Data Analysis**: Python (Pandas, NumPy, Matplotlib), SQL, Excel
+> 
+> **SQL**: Querying, Inner/Outer Joins, Grouping, Ordering
+> 
+> **Excel**: PivotTables, Conditional Formatting, Formulas, VLOOKUP, Macros
+> 
+> **Data Visualization**: Python, Tableau, Excel
+> 
+> **Databases**: PostgreSQL, MySQL, NoSQL
+> 
+> **Tools and Platforms**: GitHub, GitLab, Jupyter Notebook, Google Colab
+> 
+> **Statistics**: Regression Analysis, Hypothesis Testing, A/B Testing, Boxplots, Quartiles, Correlation
+> 
+> **Programming**: Python, SQL, HTML/Markdown, JavaScript
+> 
 
 ## Soft Skills
 
-**Communication**: Both technical & nontechnical audiences
-
-**Teamwork**: Collaboration across teams, clarify project goals, ensure follow up and completion of projects
-
-**Problem-Solving**: Code, math, and beyond
-
-**Critical Thinking**: Identify patterns, draw conclusions, and make sound recommendations
-
-**Work personality**: Willing learner, resource provider, dependable
+> **Communication**: Both technical & nontechnical audiences
+> 
+> **Teamwork**: Collaboration across teams, clarify project goals, ensure follow up and completion of projects
+> 
+> **Problem-Solving**: Code, math, and beyond
+> 
+> **Critical Thinking**: Identify patterns, draw conclusions, and make sound recommendations
+> 
+> **Work personality**: Willing learner, resource provider, dependable
+> 
 
 ## Professional Summary
 
-**2018-2024** – Pursuing My BS Degree in Math: Tutored college math, TA’d college math courses, mentored students entering college, and participated in Data Analyst research in Science and Math.
+### **2025:** Projects & Professional Development
 
-**2010-2017** – Career in Pretax Benefits Administration for Navia Benefit Solutions in Bellevue, WA, and PacificSource Administrators in Springfield, OR. I worked in several departments including Customer Service, Claims, Client Services, and Enrollment. I also worked very closely with our Billing, Sales, and Health Insurance teams to provide cross-functional service.
+> Completed advanced training in Excel, data analysis, and workflow optimization to improve data accuracy and reporting efficiency
+> 
+> Authored a blog on data analysis, benefits administration, compliance & ethics: Blog - Data By Jerrica
+> 
+> Check out my post on identifying the root cause of business issues and implementing data-driven solutions: Root Cause - Data By Jerrica
+> 
+> Conducted SQL-based project analyzing HR and benefits trends: HR Trends
+> 
+> Developed and launched my personal website: Data By Jerrica and resume site: Jerrica Raemer
+> 
+> Recently authored research papers on Data Ethics and Data Compliance. You can view these pages linked on my most recent blog post: Data Ethics - Data By Jerrica
+> 
 
-**Responsibilities in Benefits Administration**: Analyzed large-scale benefits data using data analysis techniques in Excel to identify trends. Ensured data confidentiality and accuracy while providing insights to plan participants and employers. Managed backend processes, including online enrollment setup, benefit card implementation, and new employer plan configurations.
+### **2018-2024:** Pursuing BS Degree in Math
 
-**Key Skills Gained in Benefits Administration:**
+> Tutored college math
+> 
+> TA’d college math courses
+> 
+> Mentored students entering college
+> 
+> Undergraduate research in Science and Math
+> 
 
-* Excel data comparisons between spreadsheets, AbleBits add-on, census data
- 
-* Benefit Cards set up, management, locking/unlocking
- 
-* Account Systems management, analysis, strategic planning
- 
-* Project Management for clients, participants, and internal teams
- 
-* Attention to Detail to ensure reliable data and avoid errors
+### **2010-2017:** Career in Pretax Benefits Administration
+
+> Navia Benefit Solutions in Bellevue, WA:
+>
+> * Customer Service Representative
+> 
+> * Claims Representative
+> 
+> * Lead Communications Representative
+> 
+> * Benefit Fair Representative
+>
+> PacificSource Administrators in Springfield, OR:
+> 
+> * Customer Service Representative
+> 
+> * Billing & Sales Liaison
+> 
+> * Lead Enrollment Representative
+> 
+> **Responsibilities:**
+> 
+> Analyze large-scale benefits data using data analysis techniques in Excel to identify trends
+> 
+> Ensuring data confidentiality and accuracy while providing insights to plan participants and employers
+> 
+> Manage backend processes including online enrollment setup, benefit card implementation, and new employer plan configurations
+> 
+> Excel data comparisons between spreadsheets, AbleBits add-on, census data
+> 
+> Account Systems management, analysis, strategic planning
+> 
+> Project Management for clients, participants, and internal teams
+>
+> Collaborated with Billing, Sales, and Health Insurance teams to provide cross-functional service
+> 
+> Attention to Detail to ensure reliable data and avoid errors
+>
 
 ## Work Samples
 
