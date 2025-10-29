@@ -11,11 +11,12 @@
 
 ## I'm Glad You're Here
 
-I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
-
-I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
-
-I aim to be a strategic thought partner, not just a data puller. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
+> I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
+> 
+> I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
+> 
+> I aim to be a strategic thought partner, not just a data puller. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
+>
 
 ## About Me
 <img src="Headshot.JPG" alt="Headshot" />
@@ -26,7 +27,8 @@ I aim to be a strategic thought partner, not just a data puller. I work to deepl
 
 ### Turning complex data into actionable insights
 
-I am a **results-driven data analyst** with a strong foundation in **mathematics** and **data analytics**. My academic and professional experiences have equipped me with a diverse skill set in data management, cleanup, and visualization. I am committed to leveraging my analytical abilities and technical expertise to drive impactful, data-driven insights and solutions. I also bring strong **project management** and **collaboration** skills, having worked on projects that required close coordination with cross-functional teams. My analytical mindset is complemented by a high attention to detail and a commitment to accuracy, ensuring that **data integrity** is always maintained. I am dedicated to continuous learning to deliver solutions and contribute meaningfully to organizational growth.
+> I am a **results-driven data analyst** with a strong foundation in **mathematics** and **data analytics**. My academic and professional experiences have equipped me with a diverse skill set in data management, cleanup, and visualization. I am committed to leveraging my analytical abilities and technical expertise to drive impactful, data-driven insights and solutions. I also bring strong **project management** and **collaboration** skills, having worked on projects that required close coordination with cross-functional teams. My analytical mindset is complemented by a high attention to detail and a commitment to accuracy, ensuring that **data integrity** is always maintained. I am dedicated to continuous learning to deliver solutions and contribute meaningfully to organizational growth.
+> 
 
 ## Projects
 
@@ -71,8 +73,8 @@ I am a **results-driven data analyst** with a strong foundation in **mathematics
 
 ## Professional Summary
 
-### **2025:** Projects & Professional Development
-
+> ### **2025:** Projects & Professional Development
+> 
 > Completed advanced training in Excel, data analysis, and workflow optimization to improve data accuracy and reporting efficiency
 > 
 > Authored a blog on data analysis, benefits administration, compliance & ethics: Blog - Data By Jerrica
@@ -84,10 +86,9 @@ I am a **results-driven data analyst** with a strong foundation in **mathematics
 > Developed and launched my personal website: Data By Jerrica and resume site: Jerrica Raemer
 > 
 > Recently authored research papers on Data Ethics and Data Compliance. You can view these pages linked on my most recent blog post: Data Ethics - Data By Jerrica
+>
+> ### **2018-2024:** Pursuing BS Degree in Math
 > 
-
-### **2018-2024:** Pursuing BS Degree in Math
-
 > Tutored college math
 > 
 > TA’d college math courses
@@ -96,9 +97,8 @@ I am a **results-driven data analyst** with a strong foundation in **mathematics
 > 
 > Undergraduate research in Science and Math
 > 
-
-### **2010-2017:** Career in Pretax Benefits Administration
-
+> ### **2010-2017:** Career in Pretax Benefits Administration
+> 
 > Navia Benefit Solutions in Bellevue, WA:
 >
 > * Customer Service Representative
@@ -196,25 +196,27 @@ I am a **results-driven data analyst** with a strong foundation in **mathematics
 
 ## Education
 
-**Bachelor of Science,** Mathematics, University of Oregon, Graduation: 2024
-
-**Key Courses:** Data Analysis, Linear Algebra, Discrete Math, Probability, Stochastic Processes.
-
-**Technical Skills:** Python, Pandas, Tableau, SQL, APIs, JavaScript, HTML, ETL Processes.
-
-<a href="#headline">Back to top</a>
+> **Bachelor of Science,** Mathematics, University of Oregon, Graduation: 2024
+> 
+> **Key Courses:** Data Analysis, Linear Algebra, Discrete Math, Probability, Stochastic Processes.
+> 
+> **Technical Skills:** Python, Pandas, Tableau, SQL, APIs, JavaScript, HTML, ETL Processes.
+> 
+> <a href="#headline">Back to top</a>
+>
 
 ## Contact
 
-**Let's chat:** 541-632-3506
- 
-**View my projects:** [GitHub](https://github.com/JerricaRaemer)
- 
-**Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
-
-**Inquiries:** jraemer@outlook.com
-
-*I typically respond within 1-2 business days.*
+> **Let's chat:** 541-632-3506
+> 
+> **View my projects:** [GitHub](https://github.com/JerricaRaemer)
+>  
+> **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
+> 
+> **Inquiries:** jraemer@outlook.com
+> 
+> *I typically respond within 1-2 business days.*
+>
 
 <br>
 
