@@ -19,6 +19,7 @@
 > 
 
 ## About Me
+
 > I’m a data analyst with a BS in mathematics and a background in benefits administration. I specialize in transforming complex, compliance-heavy data into clear, actionable insights. My work sits at the intersection of analytics, process improvement, and people.
 >
 > Before moving into analytics, I spent over six years in benefits administration, where I learned the importance of accuracy, privacy, and empathy in handling sensitive information. That experience taught me how much trust matters and to bring care and precision to every dataset I touch.
@@ -38,27 +39,17 @@
 >
 > I transform complex information into clear insights that empower teams to work smarter, stay compliant, and make confident, human-centered decisions.
 >
-> ### Values
+> ### Guiding Principles
 >
-> **Clarity**
+> **Clarity** - Data Organization, Data Story, & Consitency
 >
-> Data Organization, Data Story, & Consitency
+> **Integrity** - Accuracy, Compliance, Precision, Transparency, Reliability & Trust
 >
-> **Integrity**
+> **Empathy** - Human-Centered, Impact Awareness, & Thoughtfulness
 >
-> Accuracy, Compliance, Precision, Transparency, Reliability & Trust
+> **Efficiency** - Streamlining Processes, Utilizing Technology, & Finding Solutions
 >
-> **Empathy**
->
-> Human-Centered, Impact Awareness, & Thoughtfulness
->
-> **Efficiency**
->
-> Streamlining Processes, Utilizing Technology, & Finding Solutions
->
-> **Curiosity**
->
-> Asking Questions, Researching New Tools, & Uncovering Patterns
+> **Curiosity** - Asking Questions, Researching New Tools, & Uncovering Patterns
 > 
 
 ## Projects
@@ -72,34 +63,34 @@
 
 ## Technical Skills
 
-> **Data Analysis**: Python (Pandas, NumPy, Matplotlib), SQL, Excel
+> **Data Analysis** - Python (Pandas, NumPy, Matplotlib), SQL, Excel
 > 
-> **SQL**: Querying, Inner/Outer Joins, Grouping, Ordering
+> **SQL** - Querying, Inner/Outer Joins, Grouping, Ordering
 > 
-> **Excel**: PivotTables, Conditional Formatting, Formulas, VLOOKUP, Macros
+> **Excel** - PivotTables, Conditional Formatting, Formulas, VLOOKUP, Macros
 > 
-> **Data Visualization**: Python, Tableau, Excel
+> **Data Visualization** - Python, Tableau, Excel
 > 
-> **Databases**: PostgreSQL, MySQL, NoSQL
+> **Databases** - PostgreSQL, MySQL, NoSQL
 > 
-> **Tools and Platforms**: GitHub, GitLab, Jupyter Notebook, Google Colab
+> **Tools and Platforms** - GitHub, GitLab, Jupyter Notebook, Google Colab
 > 
-> **Statistics**: Regression Analysis, Hypothesis Testing, A/B Testing, Boxplots, Quartiles, Correlation
+> **Statistics** - Regression Analysis, Hypothesis Testing, A/B Testing, Boxplots, Quartiles, Correlation
 > 
-> **Programming**: Python, SQL, HTML/Markdown, JavaScript
+> **Programming** - Python, SQL, HTML/Markdown, JavaScript
 > 
 
 ## Soft Skills
 
-> **Communication**: Both technical & nontechnical audiences
+> **Communication** - Both technical & nontechnical audiences
 > 
-> **Teamwork**: Collaboration across teams, clarify project goals, ensure follow up and completion of projects
+> **Teamwork** - Collaboration across teams, clarify project goals, ensure follow up and completion of projects
 > 
-> **Problem-Solving**: Code, math, and beyond
+> **Problem-Solving** - Code, math, and beyond
 > 
-> **Critical Thinking**: Identify patterns, draw conclusions, and make sound recommendations
+> **Critical Thinking** - Identify patterns, draw conclusions, and make sound recommendations
 > 
-> **Work personality**: Willing learner, resource provider, dependable
+> **Work personality** - Willing learner, resource provider, dependable
 > 
 
 ## Professional Summary
