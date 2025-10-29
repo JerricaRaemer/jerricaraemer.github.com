@@ -222,6 +222,65 @@
   </div>
 </div>
 
+## Community & Leadership
+
+> Student Mentorship - Guided high school students in STEM, combining math support with college readiness
+> 
+> Tutor & TA Leadership - Trained peers, developed study resources, and supported classroom success
+> 
+> Business Leadership - Led client onboarding, renewals, and compliance processes in benefits administration
+> 
+> Community Engagement - Promoted STEM participation, particularly among middle- & high-school aged girls
+> 
+> Training & Development - Created training tools, led sessions across 96 locations, & presented at benefit fairs
+> 
+> Process Improvements - Built dashboards & Excel macros to streamline processes & protect timelines
+> 
+
+## Volunteer & Community Service
+
+> **Friends of the Library Volunteer** - Assisted in organizing materials, preparing events, and promoting equitable access to library resources.
+> 
+> **STEM Mentor** - Encouraged middle- and high-school girls to explore science and technology through hands-on learning.
+> 
+> **TRIO & Women in Transition Participant** - Supported peer success and built networks that foster inclusion and access to education.
+> 
+
+## Key Achievements
+
+> **Process & Compliance**
+>
+> * Developed and implemented standard operating procedures (SOPs) to improve file management, reporting, and compliance tracking across multiple departments
+>
+> * Created automated Excel tools and SQL-based reports that reduced manual data entry errors and improved progress reporting accuracy
+>
+> * Ensured compliance with internal and external regulations (IRS, HIPAA) by maintaining detailed documentation and performing data audits
+>
+> **Records & Reporting**
+>
+> * Built and maintained internal databases for tracking enrollment, billing, and client communications
+>
+> * Processed, scanned, and routed large volumes of documents with 99–100% accuracy, maintaining confidentiality and organized file structures
+>
+> * Generated and distributed progress reports and metrics to leadership and stakeholders
+>
+> **Collaboration & Communication**
+>
+> * Partnered with cross-functional teams (billing, HR, and sales) to resolve data discrepancies and ensure smooth file transfers and benefit renewals
+>
+> * Disseminated complex benefit and compliance information to participants, HR professionals, and internal staff in clear, accessible terms
+> 
+> * Updated internal documentation and website content to reflect current procedures and policy changes
+> 
+
+## Approach to Benefits Administration
+
+> **The heart behind my work**
+> 
+> I’m passionate about benefits because it is the intersection of humanity and livelihood. Benefits administration requires a balance of detailed, technical work and knowledge with empathy and compassion for the lived human experience. If I can help one person in my day navigate the complex world of benefits, I’m doing my job correctly. My goal for every participant is to help them fully utilize their benefits package in a way that best supports their specific living situation. This isn’t new territory for me; I understand what’s ahead and I’m prepared. I worked in pretax benefits administration for 6 years across two companies, each with their own interpretation of regulations and compliance. This experience taught me to be flexible, thorough, and curious.
+>
+
+
 ## Education
 
 > Bachelor of Science in Mathematics, University of Oregon, June 2024
