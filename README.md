@@ -98,13 +98,13 @@
 > 
 > Completed advanced training in Excel, data analysis, and workflow optimization to improve data accuracy and reporting efficiency
 > 
-> Authored a blog on data analysis, benefits administration, compliance & ethics: [Blog - Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/blog/))
+> Authored a blog on data analysis, benefits administration, compliance & ethics: [Blog - Data By Jerrica](https://databyjerrica.com/blog/)
 > 
-> Check out my post on identifying the root cause of business issues and implementing data-driven solutions: [Root Cause - Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/2025/01/15/root_cause.html))
+> Check out my post on identifying the root cause of business issues and implementing data-driven solutions: [Root Cause - Data By Jerrica](https://databyjerrica.com/2025/01/15/root_cause.html)
 > 
-> Conducted SQL-based project analyzing HR and benefits trends: [HR Trends]([https://github.com/JerricaRaemer](https://github.com/JerricaRaemer/employee_data_sql))
+> Conducted SQL-based project analyzing HR and benefits trends: [HR Trends](https://github.com/JerricaRaemer/employee_data_sql)
 > 
-> Developed and launched my personal website: [Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/)) and resume site: [Jerrica Raemer]([https://github.com/JerricaRaemer](https://jerricaraemer.github.io/))
+> Developed and launched my personal website: [Data By Jerrica](https://databyjerrica.com/) and resume site: [Jerrica Raemer](https://jerricaraemer.github.io/)
 > 
 > Recently authored research papers on Data Ethics and Data Compliance. You can view these pages linked on my recent blog post: [Data Ethics - Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/2025/09/15/data_ethics.html))
 >
