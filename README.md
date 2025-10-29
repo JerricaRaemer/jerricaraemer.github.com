@@ -11,15 +11,22 @@
 
 ## I'm Glad You're Here
 
-> I'm a data analyst with a passion for turning messy, complicated data into strategies that actually work. Whether it's cleaning up raw datasets, identifying hidden trends, or building smarter workflows, I help organizations make confident, data-driven decisions.
-> 
-> I have a background in mathematics and hands-on experience across operations, bringing both technical expertise and industry context to every project. I’ve supported businesses by streamlining systems, improving accuracy, and uncovering the stories their data was already telling.
-> 
+> From math major to data translator — I’ve always loved finding meaning in the numbers.
+>
 > I aim to be a strategic thought partner, not just a data puller. I work to deeply understand the business problem, focus on what truly matters in the data, and deliver insights with clarity and purpose. Stakeholders can count on me to connect the dots, cut through the noise, and communicate findings without jargon or guesswork.
 >
+> Over the years, I’ve worked everywhere from customer service desks to benefit administration teams to data analysis projects. What’s stayed constant is my curiosity: how data can tell a story, solve a problem, or make someone’s day easier. That’s what drives my work.
+> 
 
 ## About Me
-<img src="Headshot.JPG" alt="Headshot" />
+> I’m a data analyst with a BS in mathematics and a background in benefits administration. I specialize in transforming complex, compliance-heavy data into clear, actionable insights. My work sits at the intersection of analytics, process improvement, and people.
+>
+> Before moving into analytics, I spent over six years in benefits administration, where I learned the importance of accuracy, privacy, and empathy in handling sensitive information. That experience taught me how much trust matters and to bring care and precision to every dataset I touch.
+>
+> Today, I combine technical tools (e.g. Excel, SQL, Python, Tableau) and statistical knowledge with strong communication skills to bridge the gap between raw data and real understanding.
+>
+> Outside of analytics, you can usually find me exploring Oregon’s coast, walking in the rain, or petting puppies. I am always eager to connect with others, embrace new experiences, and bring positivity and enthusiasm to everything I do.
+> 
 
 ### Seeking a **valuable addition** to your team? <a href="#contact">Contact me now!</a>
 
@@ -27,7 +34,21 @@
 
 ### Turning complex data into actionable insights
 
-> I am a **results-driven data analyst** with a strong foundation in **mathematics** and **data analytics**. My academic and professional experiences have equipped me with a diverse skill set in data management, cleanup, and visualization. I am committed to leveraging my analytical abilities and technical expertise to drive impactful, data-driven insights and solutions. I also bring strong **project management** and **collaboration** skills, having worked on projects that required close coordination with cross-functional teams. My analytical mindset is complemented by a high attention to detail and a commitment to accuracy, ensuring that **data integrity** is always maintained. I am dedicated to continuous learning to deliver solutions and contribute meaningfully to organizational growth.
+> I’m driven by a simple purpose: to bridge the gap between data and people.
+>
+> I transform complex information into clear insights that empower teams to work smarter, stay compliant, and make confident, human-centered decisions.
+>
+> ### Values
+>
+> Clarity – data sets, data story, & beyond
+>
+> Integrity – accuracy, confidentiality, precision, transparency, reliability & trust
+>
+> Empathy – human-centered, impact awareness, & thoughtfulness
+>
+> Efficiency – streamlining processes, utilizing technology, & finding solutions
+>
+> Curiosity – Asking questions, researching new tools, & uncovering patterns
 > 
 
 ## Projects
@@ -77,15 +98,15 @@
 > 
 > Completed advanced training in Excel, data analysis, and workflow optimization to improve data accuracy and reporting efficiency
 > 
-> Authored a blog on data analysis, benefits administration, compliance & ethics: Blog - Data By Jerrica
+> Authored a blog on data analysis, benefits administration, compliance & ethics: [Blog - Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/blog/))
 > 
-> Check out my post on identifying the root cause of business issues and implementing data-driven solutions: Root Cause - Data By Jerrica
+> Check out my post on identifying the root cause of business issues and implementing data-driven solutions: [Root Cause - Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/2025/01/15/root_cause.html))
 > 
-> Conducted SQL-based project analyzing HR and benefits trends: HR Trends
+> Conducted SQL-based project analyzing HR and benefits trends: [HR Trends]([https://github.com/JerricaRaemer](https://github.com/JerricaRaemer/employee_data_sql))
 > 
-> Developed and launched my personal website: Data By Jerrica and resume site: Jerrica Raemer
+> Developed and launched my personal website: [Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/)) and resume site: [Jerrica Raemer]([https://github.com/JerricaRaemer](https://jerricaraemer.github.io/))
 > 
-> Recently authored research papers on Data Ethics and Data Compliance. You can view these pages linked on my most recent blog post: Data Ethics - Data By Jerrica
+> Recently authored research papers on Data Ethics and Data Compliance. You can view these pages linked on my recent blog post: [Data Ethics - Data By Jerrica]([https://github.com/JerricaRaemer](https://databyjerrica.com/2025/09/15/data_ethics.html))
 >
 > ### **2018-2024:** Pursuing BS Degree in Math
 > 
@@ -196,11 +217,15 @@
 
 ## Education
 
-> **Bachelor of Science,** Mathematics, University of Oregon, Graduation: 2024
+> Bachelor of Science in Mathematics, University of Oregon, June 2024
 > 
-> **Key Courses:** Data Analysis, Linear Algebra, Discrete Math, Probability, Stochastic Processes.
+> Associate of Science in Mathematics, Lane Community College, June 2021
 > 
-> **Technical Skills:** Python, Pandas, Tableau, SQL, APIs, JavaScript, HTML, ETL Processes.
+> Coursework: Statistics, Analysis, Excel for Business, Data Science
+> 
+> Technical Skills: Coding (Python, C++, HTML), SQL, ETL processes, Tableau, API’s, website building
+> 
+> Leadership: Math TA, math tutor, high school mentoring for college prep, Women in Transition, TRIO
 > 
 > <a href="#headline">Back to top</a>
 >
