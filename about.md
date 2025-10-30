@@ -4,6 +4,8 @@ title: About
 permalink: /about/
 ---
 
+<img src="{{ '/assets/images/headshot_caption.jpg' | relative_url }}" alt="Jerrica Raemer" class="about-image">
+
 ## About Me
 
 > I’m a data analyst with a BS in mathematics and a background in benefits administration. I specialize in transforming complex, compliance-heavy data into clear, actionable insights. My work sits at the intersection of analytics, process improvement, and people.
