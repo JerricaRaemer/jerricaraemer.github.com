@@ -1,3 +1,9 @@
+---
+layout: page
+title: Portfolio
+permalink: /portfolio/
+---
+
 ## Projects
 
 > View All Repositories: [GitHub](https://github.com/JerricaRaemer)
