@@ -1,5 +1,5 @@
 body {
-  background-image: url('{{ "/assets/images/background.jpg" | relative_url }}');
+  background-image: url("/assets/images/background.jpg");
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
