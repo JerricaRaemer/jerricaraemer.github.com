@@ -24,7 +24,6 @@ permalink: /portfolio/
       <figcaption>Data Cleaning</figcaption>
     </figure>
   </div>
-</div>
 
 <div class="gallery">
   <figure>
