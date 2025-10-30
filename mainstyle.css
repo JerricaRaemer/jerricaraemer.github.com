@@ -1,5 +1,5 @@
 .wrapper {
-  max-width: 400px;   /* limits text width for readability */
+  max-width: 600px;   /* limits text width for readability */
   margin: 0 auto;     /* centers the content */
   padding: 2rem;      /* adds breathing room inside */
   line-height: 1.6;   /* improves text legibility */
