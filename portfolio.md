@@ -71,5 +71,31 @@ permalink: /portfolio/
   </div>
 </div>
 
+## Key Achievements
+
+> **Process & Compliance**
+>
+> * Developed and implemented standard operating procedures (SOPs) to improve file management, reporting, and compliance tracking across multiple departments
+>
+> * Created automated Excel tools and SQL-based reports that reduced manual data entry errors and improved progress reporting accuracy
+>
+> * Ensured compliance with internal and external regulations (IRS, HIPAA) by maintaining detailed documentation and performing data audits
+>
+> **Records & Reporting**
+>
+> * Built and maintained internal databases for tracking enrollment, billing, and client communications
+>
+> * Processed, scanned, and routed large volumes of documents with 99–100% accuracy, maintaining confidentiality and organized file structures
+>
+> * Generated and distributed progress reports and metrics to leadership and stakeholders
+>
+> **Collaboration & Communication**
+>
+> * Partnered with cross-functional teams (billing, HR, and sales) to resolve data discrepancies and ensure smooth file transfers and benefit renewals
+>
+> * Disseminated complex benefit and compliance information to participants, HR professionals, and internal staff in clear, accessible terms
+> 
+> * Updated internal documentation and website content to reflect current procedures and policy changes
+> 
 
 ## insert additional work samples
