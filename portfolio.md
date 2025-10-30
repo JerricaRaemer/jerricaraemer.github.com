@@ -70,8 +70,7 @@ permalink: /portfolio/
     <figcaption>Tableau Visualization</figcaption>
   </figure>
 </div>
-
-</div class="gallery-grid">
+</div>
 
 ## Key Achievements
 
