@@ -1,3 +1,9 @@
+---
+layout: page
+title: Career
+permalink: /career/
+---
+
 ## Professional Summary
 
 > ### **2025:** Projects & Professional Development
