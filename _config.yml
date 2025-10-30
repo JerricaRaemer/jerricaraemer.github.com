@@ -1,7 +1,22 @@
 
 title: Jerrica Raemer
 
-theme: jekyll-theme-Modernist
+baseurl: ""
+url: "https://jerricaraemer.github.io"
+markdown: kramdown
 
-github:
-  is_project_page: false
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Skills & Education
+    link: /skills/
+  - name: Career
+    link: /career/
+  - name: Portfolio
+    link: /portfolio/
+  - name: Volunteer
+    link: /volunteer/
+  - name: Contact
+    link: /contact/

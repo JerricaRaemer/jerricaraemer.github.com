@@ -1,3 +1,28 @@
+.wrapper {
+  max-width: 600px;   /* limits text width for readability */
+  margin: 0 auto;     /* centers the content */
+  padding: 2rem;      /* adds breathing room inside */
+  line-height: 1.6;   /* improves text legibility */
+}
+
+.nav {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding: 0;
+}
+
+.nav li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+}
+
+.nav li a:hover {
+  color: #007acc;
+}
+
 .headshot{
   display: inline;
   padding: 10px;
@@ -41,3 +66,27 @@
   }
 }
 
+.nav {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding: 0;
+}
+
+.nav li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #333;
+}
+
+.nav li a:hover {
+  color: #007acc;
+}
+
+/* Mobile: stack links */
+@media (max-width: 768px) {
+  .nav {
+    flex-direction: column;  /* stack vertically */
+    align-items: center;     /* center links */
+    gap: 0.5rem;             /* smaller spacing */
