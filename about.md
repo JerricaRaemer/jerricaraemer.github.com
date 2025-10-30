@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ '/assets/images/headshot_caption.jpg' | relative_url }}" alt="Jerrica Raemer" class="about-image">
+<img src="{{ '/assets/images/headshot_caption.jpg' | relative_url }}" alt="Jerrica Raemer" style="max-width: 600px; width: 100%; height: auto; display: block; margin: 20px auto; border-radius: 10px;">
 
 ## About Me
 
