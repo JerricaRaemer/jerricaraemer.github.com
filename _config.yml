@@ -3,7 +3,6 @@ title: Jerrica Raemer
 
 baseurl: ""
 url: "https://jerricaraemer.github.io"
-theme: jekyll-theme-modernist
 markdown: kramdown
 
 nav:
