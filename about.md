@@ -15,7 +15,7 @@ permalink: /about/
 > Outside of analytics, you can usually find me exploring Oregon’s coast, walking in the rain, or petting puppies. I am always eager to connect with others, embrace new experiences, and bring positivity and enthusiasm to everything I do.
 > 
 
-### Seeking a **valuable addition** to your team? <a href="#contact">Contact me now!</a>
+### Seeking a **valuable addition** to your team? [Let's chat](contact.md)
 
 ## Mission, Vision, & Values
 
