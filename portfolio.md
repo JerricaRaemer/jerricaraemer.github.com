@@ -25,15 +25,6 @@ permalink: /portfolio/
     </figure>
   </div>
 </div>
-  
-<div class="gallery">
-  <figure>
-    <a target="_blank" href="{{ '/assets/images/Data_Cleaning_SQL_Python.jpg' | relative_url }}">
-      <img src="{{ '/assets/images/Data_Cleaning_SQL_Python.jpg' | relative_url }}" alt="Data_Cleaning" />
-    </a>
-    <figcaption>Data Cleaning</figcaption>
-  </figure>
-</div>
 
 <div class="gallery">
   <figure>
@@ -79,6 +70,8 @@ permalink: /portfolio/
     <figcaption>Tableau Visualization</figcaption>
   </figure>
 </div>
+
+</div class="gallery-grid">
 
 ## Key Achievements
 
