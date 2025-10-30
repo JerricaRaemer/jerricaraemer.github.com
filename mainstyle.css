@@ -66,3 +66,9 @@
   }
 }
 
+/* Mobile: stack links */
+@media (max-width: 768px) {
+  .nav {
+    flex-direction: column;  /* stack vertically */
+    align-items: center;     /* center links */
+    gap: 0.5rem;             /* smaller spacing */
