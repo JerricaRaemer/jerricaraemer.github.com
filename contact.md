@@ -7,6 +7,8 @@ permalink: /contact/
 ## Contact
 
 > **Let's chat:** 541-632-3506
+>
+> **Website:** [Data By Jerrica](https://databyjerrica.com/)
 > 
 > **View my projects:** [GitHub](https://github.com/JerricaRaemer)
 >  
