@@ -1,3 +1,9 @@
+---
+layout: page
+title: Home
+permalink: /
+---
+  
   <link rel="stylesheet" href="mainstyle.css">
 
 <head>
