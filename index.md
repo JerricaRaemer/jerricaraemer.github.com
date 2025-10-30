@@ -12,8 +12,11 @@ permalink: /
 </head>
 
 <section id="headline">
-  <h3> <img src="arrow.JPG" alt="rightarrow" width="40" /> Results-Driven, Detail-Focused Data Analyst</h3>
-  </section>
+  <h3>
+    <img src="{{ '/assets/images/arrow.jpg' | relative_url }}" alt="rightarrow" width="40" />
+    Results-Driven, Detail-Focused Data Analyst
+  </h3>
+</section>
 
 ## I'm Glad You're Here
 
