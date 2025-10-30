@@ -18,8 +18,8 @@ permalink: /portfolio/
 <div class="gallery-grid">
   <div class="gallery">
     <figure>
-      <a target="_blank" href="{{ '/assets/images/Data_Cleaning_SQL_Python.JPG' | relative_url }}">
-        <img src="{{ '/assets/images/Data_Cleaning_SQL_Python.JPG' | relative_url }}" alt="Data_Cleaning" />
+      <a target="_blank" href="{{ '/assets/images/Data_Cleaning_SQL_Python.jpg' | relative_url }}">
+        <img src="{{ '/assets/images/Data_Cleaning_SQL_Python.jpg' | relative_url }}" alt="Data_Cleaning" />
       </a>
       <figcaption>Data Cleaning</figcaption>
     </figure>
