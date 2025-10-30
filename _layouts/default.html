@@ -10,28 +10,25 @@
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
 
-<head>
-    <nav>
-  <ul class="nav">
-    <li><a href="{{ '/' | relative_url }}">Home</a></li>
-    <li><a href="{{ '/about/' | relative_url }}">About</a></li>
-    <li><a href="{{ '/skills/' | relative_url }}">Skills & Education</a></li>
-    <li><a href="{{ '/career/' | relative_url }}">Career</a></li>
-    <li><a href="{{ '/portfolio/' | relative_url }}">Portfolio</a></li>
-    <li><a href="{{ '/volunteer/' | relative_url }}">Volunteer</a></li>
-    <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
-  </ul>
-  <ul class="nav">
-    {% for item in site.nav %}
-      <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
-    {% endfor %}
-  </ul>
-</nav>
-</head>
-
     {% include head-custom.html %}
   </head>
   <body>
+      <nav>
+    <ul class="nav">
+      <li><a href="{{ '/' | relative_url }}">Home</a></li>
+      <li><a href="{{ '/about/' | relative_url }}">About</a></li>
+      <li><a href="{{ '/skills/' | relative_url }}">Skills & Education</a></li>
+      <li><a href="{{ '/career/' | relative_url }}">Career</a></li>
+      <li><a href="{{ '/portfolio/' | relative_url }}">Portfolio</a></li>
+      <li><a href="{{ '/community/' | relative_url }}">Volunteer & Community</a></li>
+      <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
+    </ul>
+  </nav>
+
+  <div class="wrapper">
+    {{ content }}
+  </div>
+
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
