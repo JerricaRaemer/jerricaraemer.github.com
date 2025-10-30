@@ -26,50 +26,58 @@ permalink: /portfolio/
   </div>
 </div>
   
-  <div class="gallery">
-    <figure>
-    <a target="_blank" href="Data_Cleaning_SQL_Python.JPG">
-      <img src="SQL_Table_Schema.JPG" alt="SQL_Shema" />
+<div class="gallery">
+  <figure>
+    <a target="_blank" href="{{ '/assets/images/Data_Cleaning_SQL_Python.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/Data_Cleaning_SQL_Python.jpg' | relative_url }}" alt="Data_Cleaning" />
+    </a>
+    <figcaption>Data Cleaning</figcaption>
+  </figure>
+</div>
+
+<div class="gallery">
+  <figure>
+    <a target="_blank" href="{{ '/assets/images/SQL_Table_Schema.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/SQL_Table_Schema.jpg' | relative_url }}" alt="SQL_Schema" />
     </a>
     <figcaption>Data Schema</figcaption>
-    </figure>
-  </div>
-  
-  <div class="gallery">
-    <figure>
-    <a target="_blank" href="Linear_Regression.JPG">
-      <img src="Linear_Regression.JPG" alt="Linear_Regression" />
+  </figure>
+</div>
+
+<div class="gallery">
+  <figure>
+    <a target="_blank" href="{{ '/assets/images/Linear_Regression.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/Linear_Regression.jpg' | relative_url }}" alt="Linear_Regression" />
     </a>
     <figcaption>Linear Regression</figcaption>
-    </figure>
-  </div>
-  
-  <div class="gallery">
-    <figure>
-    <a target="_blank" href="Line_Plot_Python.JPG">
-      <img src="Line_Plot_Python.JPG" alt="Python_Plots" />
+  </figure>
+</div>
+
+<div class="gallery">
+  <figure>
+    <a target="_blank" href="{{ '/assets/images/Line_Plot_Python.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/Line_Plot_Python.jpg' | relative_url }}" alt="Python_Plots" />
     </a>
     <figcaption>Python Visualization</figcaption>
-    </figure>
-  </div>
-  
-  <div class="gallery">
-    <figure>
-    <a target="_blank" href="Python_Dict.JPG">
-      <img src="Python_Dict.JPG" alt="Data_Organization" />
+  </figure>
+</div>
+
+<div class="gallery">
+  <figure>
+    <a target="_blank" href="{{ '/assets/images/Python_Dict.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/Python_Dict.jpg' | relative_url }}" alt="Data_Organization" />
     </a>
     <figcaption>Python Pandas</figcaption>
-    </figure>
-  </div>
-  
-  <div class="gallery">
-    <figure>
-    <a target="_blank" href="Tableau_Music.JPG">
-      <img src="Tableau_Music.JPG" alt="Tableau_Visualizations" />
+  </figure>
+</div>
+
+<div class="gallery">
+  <figure>
+    <a target="_blank" href="{{ '/assets/images/Tableau_Music.jpg' | relative_url }}">
+      <img src="{{ '/assets/images/Tableau_Music.jpg' | relative_url }}" alt="Tableau_Visualizations" />
     </a>
     <figcaption>Tableau Visualization</figcaption>
-    </figure>
-  </div>
+  </figure>
 </div>
 
 ## Key Achievements
