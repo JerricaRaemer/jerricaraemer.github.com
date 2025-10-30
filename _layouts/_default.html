@@ -21,6 +21,11 @@
     <li><a href="{{ '/volunteer/' | relative_url }}">Volunteer</a></li>
     <li><a href="{{ '/contact/' | relative_url }}">Contact</a></li>
   </ul>
+  <ul class="nav">
+    {% for item in site.nav %}
+      <li><a href="{{ item.link | relative_url }}">{{ item.name }}</a></li>
+    {% endfor %}
+  </ul>
 </nav>
 </head>
 
