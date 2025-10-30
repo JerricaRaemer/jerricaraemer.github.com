@@ -1,3 +1,9 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
 ## Contact
 
 > **Let's chat:** 541-632-3506
