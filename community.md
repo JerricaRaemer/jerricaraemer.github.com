@@ -1,3 +1,9 @@
+---
+layout: page
+title: Volunteer & Community
+permalink: /community/
+---
+
 ## Community & Leadership
 
 > Student Mentorship - Guided high school students in STEM, combining math support with college readiness
