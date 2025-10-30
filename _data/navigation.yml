@@ -1,0 +1,15 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Skills & Education"
+    url: /skills/
+  - title: "Career"
+    url: /career/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Volunteer & Community"
+    url: /community/
+  - title: "Contact"
+    url: /contact/
