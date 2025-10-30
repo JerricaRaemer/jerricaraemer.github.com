@@ -1,3 +1,9 @@
+---
+layout: page
+title: Skills & Education
+permalink: /skills/
+---
+
 ## Technical Skills
 
 > **Data Analysis** - Python (Pandas, NumPy, Matplotlib), SQL, Excel
