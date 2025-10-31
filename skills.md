@@ -46,6 +46,4 @@ permalink: /skills/
 > Technical Skills: Coding (Python, C++, HTML), SQL, ETL processes, Tableau, API’s, website building
 > 
 > Leadership: Math TA, math tutor, high school mentoring for college prep, Women in Transition, TRIO
-> 
-> <a href="#headline">Back to top</a>
 >
