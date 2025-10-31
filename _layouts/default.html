@@ -12,9 +12,16 @@
 
     {% include head-custom.html %}
   </head>
+  <script>
+  document.querySelector('.nav-toggle').addEventListener('click', function() {
+    document.querySelector('.nav').classList.toggle('active');
+  });
+</script>
+  
   <body>
     <header>
       <nav>
+        <button class="nav-toggle" aria-label="Toggle navigation">☰</button>
         <ul class="nav">
           {% for item in site.data.navigation.main %}
             <li><a href="{{ item.url | relative_url }}">{{ item.title }}</a></li>
