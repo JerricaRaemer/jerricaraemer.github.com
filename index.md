@@ -11,12 +11,18 @@ permalink: /
   <meta name="author" content="Jerrica Raemer">
 </head>
 
+<!--
 <section id="headline">
   <h3>
     <img src="{{ '/assets/images/arrow.jpg' | relative_url }}" alt="rightarrow" width="40" />
     Results-Driven, Detail-Focused Data Analyst
   </h3>
 </section>
+-->
+
+# Jerrica Raemer
+
+### Results-Driven, Detail-Focused Data Analyst
 
 ## I'm Glad You're Here
 
