@@ -29,7 +29,7 @@ permalink: /about/
 >
 > ### Guiding Principles
 >
-> **Clarity** - Data Organization, Data Story, & Consitency
+> **Clarity** - Data Organization, Data Story, & Consistency
 >
 > **Integrity** - Accuracy, Compliance, Precision, Transparency, Reliability & Trust
 >
