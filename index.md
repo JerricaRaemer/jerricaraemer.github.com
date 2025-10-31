@@ -23,6 +23,8 @@ permalink: /
 # Jerrica Raemer
 ### Results-Driven, Detail-Focused Data Analyst
 
+<br>
+
 ## I'm Glad You're Here
 
 > From math major to data translator — I’ve always loved finding meaning in the numbers.
