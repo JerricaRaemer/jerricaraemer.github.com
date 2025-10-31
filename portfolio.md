@@ -98,4 +98,3 @@ permalink: /portfolio/
 > * Updated internal documentation and website content to reflect current procedures and policy changes
 > 
 
-## insert additional work samples
