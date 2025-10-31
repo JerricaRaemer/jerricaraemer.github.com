@@ -98,3 +98,18 @@ body {
     flex-direction: column;  /* stack vertically */
     align-items: center;     /* center links */
     gap: 0.5rem;             /* smaller spacing */
+
+    html, body {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main.wrapper {
+  flex: 1;
+}
