@@ -21,7 +21,6 @@ permalink: /
 -->
 
 # Jerrica Raemer
-
 ### Results-Driven, Detail-Focused Data Analyst
 
 ## I'm Glad You're Here
