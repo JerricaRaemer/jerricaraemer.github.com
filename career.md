@@ -74,4 +74,46 @@ permalink: /career/
 > 
 > * Attention to Detail to ensure reliable data and avoid errors
 
-## insert full work history here
+## Full Work History
+
+> **Student Mentor**
+> 
+> *Student Academy to Inspire Learning (SAIL) at University of Oregon, Sep 2023 to Jan 2024*
+> * Mentored high school students preparing for college
+> * Maintained student records and confidentiality
+>
+> **Research Assistant**
+> 
+> *SPICE Science at University of Oregon, Jun 2023 to Oct 2023*
+> * Analyzed middle school girls' interest in science and provided data-driven insights
+> * Recommended program improvements to enhance student engagement
+>
+> **Math Teaching Assistant**
+> 
+> *Amplify My Math Placement (AMMP) at Lane Community College, Sep 2019 to Jan 2020*
+> * Leveraged AI tools to monitor student progress, assess performance, and enhance learning outcomes
+> * Helped students understand and apply math techniques and problem solving
+>
+> **Math Tutor**
+> 
+> *Math Resource Center (MRC) at Lane Community College, Sep 2019 to Jan 2020*
+> * Tutored students in 100-200 level mathematics and provided guided problem-solving support
+> * Provided one-on-one tutoring and assisted with curriculum development for statistics and math courses
+>
+> **Lead Enrollment Representative**
+>
+> *PacificSource Administrators, Springfield OR, Apr 2014 to Apr 2016*
+> * Managed file creation, updates, and routing for thousands of participant records, ensuring accuracy and confidentiality
+> * Collaborated with cross-departmental teams to resolve issues and update client databases
+> * Processed benefit applications, renewals, and fee transactions
+> * Maintained updated and detailed compliance knowledge of IRS and HIPAA regulations
+> * Generated reports to track progress and identify process improvement opportunities
+>
+> **Lead Communications & Administrative Specialist**
+>
+> *Navia Benefit Solutions, Bellevue WA, Dec 2010 to Aug 2013*
+> * Oversaw document management, routing, and data entry workflows within a high-volume benefits environment
+> * Resolved complex participant and client inquiries by coordinating with compliance, claims, and enrollment teams
+> * Supported public-facing outreach by updating educational materials and website content to clarify procedures
+> * Processed payments, fee adjustments, and participant reimbursements  with exceptional accuracy
+>   
