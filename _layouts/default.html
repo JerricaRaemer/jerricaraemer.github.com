@@ -12,12 +12,7 @@
 
     {% include head-custom.html %}
   </head>
-  <script>
-  document.querySelector('.nav-toggle').addEventListener('click', function() {
-    document.querySelector('.nav').classList.toggle('active');
-  });
-</script>
-  
+
   <body>
     <header>
       <nav>
@@ -39,5 +34,12 @@
     </footer>
 
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+    <!-- ✅ Move your nav toggle script here -->
+    <script>
+      document.querySelector('.nav-toggle').addEventListener('click', function() {
+        document.querySelector('.nav').classList.toggle('active');
+      });
+    </script>
   </body>
 </html>
