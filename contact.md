@@ -15,6 +15,7 @@ permalink: /contact/
 > **Let’s connect:** [LinkedIn](https://www.linkedin.com/in/jerrica-raemer/)
 > 
 > **Inquiries:** jraemer@outlook.com
-> 
-> *I typically respond within 1-2 business days.*
 >
+
+*I typically respond within 1-2 business days.*
+
